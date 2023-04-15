@@ -1,0 +1,38 @@
+# Ignore everything by default.
+*
+
+# Common folders.
+!.config/
+!.local/
+!.local/share/
+
+# Allow ignore file for the repo.
+!.gitignore
+
+# Git identification, settings and aliases.
+!.gitconfig
+
+# Fish shell aliases and convenience functions.
+!.config/fish/
+!.config/fish/config.fish
+!.config/fish/fish_plugins
+!.config/fish/functions/
+!.config/fish/functions/*
+
+# Konsole terminal emulator.
+!.config/konsolerc
+!.local/share/konsole/
+!.local/share/konsole/Lucas.colorscheme
+!.local/share/konsole/Lucas.profile
+
+# Micro text editor.
+!.config/micro/settings.json
+
+# GIMP image editor.
+!.config/GIMP/
+!.config/GIMP/*/
+!.config/GIMP/*/*
+.config/GIMP/*/action_history
+.config/GIMP/*/backups/
+.config/GIMP/*/CrashLog/
+.config/GIMP/*/CrashLog/tmp/
