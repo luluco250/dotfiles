@@ -1180,7 +1180,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="d3c03ccae3c79c8afe657cf9a1dd7ea9">
+  <resource identifier="gimp-palette-color-history" checksum="5c0bab848087320dd23ef2110c6d1dbb">
   </resource>
 
   <resource identifier="${gimp_dir}/palettes/Untitled.gpl" checksum="(null)">

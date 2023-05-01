@@ -1,8 +1,8 @@
 # GIMP user context
 
-(tool "gimp-paintbrush-tool")
+(tool "gimp-bucket-fill-tool")
 (paint-info "gimp-paintbrush")
-(foreground (color-rgb 1 0 0))
+(foreground (color-rgb 0.39215686274509803 0.58431372549019611 0.92941176470588238))
 (brush "2. Hardness 025")
 (dynamics "Basic Simple")
 (mybrush "100% Opaque")
