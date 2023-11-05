@@ -10,6 +10,7 @@
 	adds = !git add $1 && git status
 	ours = !git checkout --ours $1 && git adds $1
 	theirs = !git checkout --theirs $1 && git adds $1
+	pushu = push --set-upstream origin HEAD
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
