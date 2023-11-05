@@ -28,8 +28,8 @@
 (image-convert-indexed-max-colors 16)
 (image-resize-fill-type background)
 (image-resize-layer-set all)
-(layer-new-name "blackd")
-(layer-add-mask-type selection)
+(layer-new-name "paint")
+(layer-add-mask-type black)
 (layer-merge-type clip-to-image)
 (selection-grow-radius 5)
 (fill-options
