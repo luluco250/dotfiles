@@ -970,6 +970,9 @@
   <resource identifier="gimp-gradient-fg-transparent" checksum="1491f74caf057a39c8193470da2d2a29">
   </resource>
 
+  <resource identifier="gimp-gradient-fg-transparent-hardedge" checksum="34dca90c80cbb5d91a2d07a0e2cfba84">
+  </resource>
+
   <resource identifier="${gimp_data_dir}/gradients/Abstract_1.ggr" checksum="edaa7d1fc882ab813b75b49ee9272913">
   </resource>
 
@@ -1315,66 +1318,6 @@
   <resource identifier="8514oem" checksum="(null)">
   </resource>
 
-  <resource identifier="Adobe Courier" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Courier Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Helvetica Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe New Century Schoolbook Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Times Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Adobe Utopia Medium Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Andale Mono" checksum="(null)">
   </resource>
 
@@ -1523,48 +1466,6 @@
   </resource>
 
   <resource identifier="Bahnschrift Semi-Light Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaBright" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaBright Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H Lucida Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaTypewriter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="B&amp;H LucidaTypewriter Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Charter Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Terminal" checksum="(null)">
-  </resource>
-
-  <resource identifier="Bitstream Terminal Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Bitstream Vera Sans" checksum="(null)">
@@ -1846,6 +1747,18 @@
   <resource identifier="Cascadia Mono Ultra-Light Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Charter" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charter Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Charter Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Comic Sans MS" checksum="(null)">
   </resource>
 
@@ -1903,6 +1816,15 @@
   <resource identifier="Courier" checksum="(null)">
   </resource>
 
+  <resource identifier="Courier Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Courier Medium Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="Courier New" checksum="(null)">
   </resource>
 
@@ -1931,12 +1853,6 @@
   </resource>
 
   <resource identifier="D050000L" checksum="(null)">
-  </resource>
-
-  <resource identifier="DEC Terminal" checksum="(null)">
-  </resource>
-
-  <resource identifier="DEC Terminal Bold" checksum="(null)">
   </resource>
 
   <resource identifier="DejaVu Math TeX Gyre" checksum="(null)">
@@ -2230,6 +2146,18 @@
   <resource identifier="Hasklug Nerd Font Ultra-Light Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Helvetica" checksum="(null)">
+  </resource>
+
+  <resource identifier="Helvetica Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Helvetica Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Helvetica Medium Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="HoloLens MDL2 Assets" checksum="(null)">
   </resource>
 
@@ -2239,247 +2167,247 @@
   <resource identifier="Ink Free" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font" checksum="(null)">
+  <resource identifier="Iosevka NF" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Bold" checksum="(null)">
+  <resource identifier="Iosevka NF Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Heavy" checksum="(null)">
+  <resource identifier="Iosevka NF Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Heavy Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Heavy Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Heavy Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Light" checksum="(null)">
+  <resource identifier="Iosevka NF Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Light Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Light Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Light Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Medium" checksum="(null)">
+  <resource identifier="Iosevka NFM" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Medium Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Medium Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono" checksum="(null)">
+  <resource identifier="Iosevka NFM Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Bold" checksum="(null)">
+  <resource identifier="Iosevka NF Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Medium Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Heavy" checksum="(null)">
+  <resource identifier="Iosevka NFM Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Heavy Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Heavy Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Heavy Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Light" checksum="(null)">
+  <resource identifier="Iosevka NFM Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Light Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Light Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Light Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Medium" checksum="(null)">
+  <resource identifier="Iosevka NFM Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Medium Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Medium Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Medium Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Semi-Bold" checksum="(null)">
+  <resource identifier="Iosevka NFM Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Semi-Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Semi-Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Thin" checksum="(null)">
+  <resource identifier="Iosevka NFM Thin" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Thin Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Thin Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Thin Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Thin Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Ultra-Bold" checksum="(null)">
+  <resource identifier="Iosevka NFM Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Ultra-Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Ultra-Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Ultra-Light" checksum="(null)">
+  <resource identifier="Iosevka NFM Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  <resource identifier="Iosevka NFM Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Mono Ultra-Light Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFM Ultra-Light Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo" checksum="(null)">
+  <resource identifier="Iosevka NFP" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Bold" checksum="(null)">
+  <resource identifier="Iosevka NFP Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Heavy" checksum="(null)">
+  <resource identifier="Iosevka NFP Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Heavy Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Heavy Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Heavy Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Light" checksum="(null)">
+  <resource identifier="Iosevka NFP Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Light Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Light Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Light Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Medium" checksum="(null)">
+  <resource identifier="Iosevka NFP Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Medium Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Medium Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Medium Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Semi-Bold" checksum="(null)">
+  <resource identifier="Iosevka NFP Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Semi-Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Semi-Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Semi-Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Thin" checksum="(null)">
+  <resource identifier="Iosevka NFP Thin" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Thin Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Thin Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Thin Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Thin Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Ultra-Bold" checksum="(null)">
+  <resource identifier="Iosevka NFP Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Ultra-Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Ultra-Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Ultra-Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Ultra-Light" checksum="(null)">
+  <resource identifier="Iosevka NFP Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Ultra-Light Italic" checksum="(null)">
+  <resource identifier="Iosevka NFP Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Propo Ultra-Light Oblique" checksum="(null)">
+  <resource identifier="Iosevka NFP Ultra-Light Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Semi-Bold" checksum="(null)">
+  <resource identifier="Iosevka NF Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Semi-Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Semi-Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Semi-Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Thin" checksum="(null)">
+  <resource identifier="Iosevka NF Thin" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Thin Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Thin Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Thin Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Thin Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Ultra-Bold" checksum="(null)">
+  <resource identifier="Iosevka NF Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Ultra-Bold Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Ultra-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Ultra-Bold Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Ultra-Bold Oblique" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Ultra-Light" checksum="(null)">
+  <resource identifier="Iosevka NF Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Ultra-Light Italic" checksum="(null)">
+  <resource identifier="Iosevka NF Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Iosevka Nerd Font Ultra-Light Oblique" checksum="(null)">
+  <resource identifier="Iosevka NF Ultra-Light Oblique" checksum="(null)">
   </resource>
 
   <resource identifier="Javanese Text" checksum="(null)">
@@ -2626,10 +2554,34 @@
   <resource identifier="Liberation Serif Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Lucida Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lucida Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="LucidaBright" checksum="(null)">
+  </resource>
+
+  <resource identifier="LucidaBright Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Lucida Console Semi-Condensed" checksum="(null)">
   </resource>
 
+  <resource identifier="Lucida Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Lucida Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Lucida Sans Unicode" checksum="(null)">
+  </resource>
+
+  <resource identifier="LucidaTypewriter Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="LucidaTypewriter Medium" checksum="(null)">
   </resource>
 
   <resource identifier="Malgun Gothic" checksum="(null)">
@@ -2872,6 +2824,18 @@
   <resource identifier="Neo Euler Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="New Century Schoolbook" checksum="(null)">
+  </resource>
+
+  <resource identifier="New Century Schoolbook Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="New Century Schoolbook Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="New Century Schoolbook Medium Italic" checksum="(null)">
+  </resource>
+
   <resource identifier="Nimbus Mono PS" checksum="(null)">
   </resource>
 
@@ -2936,6 +2900,33 @@
   </resource>
 
   <resource identifier="Noto Fangsong KSS Vertical" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Heavy" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Ultra-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Kufi Arabic Ultra-Light" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Looped Thai" checksum="(null)">
@@ -3058,7 +3049,7 @@
   <resource identifier="Noto Naskh Arabic Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Naskh Arabic Semi Bold" checksum="(null)">
+  <resource identifier="Noto Naskh Arabic Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Naskh Arabic UI" checksum="(null)">
@@ -3130,106 +3121,106 @@
   <resource identifier="Noto Sans Arabic Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic Condensed, Bold Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Bold Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic Condensed, Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Bold Extra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic Condensed, Heavy Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Bold Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic Condensed, Light Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic Condensed, Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic Condensed, Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic Condensed, Thin Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic Condensed, Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic Condensed, Ultra-Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Heavy Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Medium Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Semi-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Thin Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Ultra-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic ExtraCondensed, Ultra-Light Extra-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Extra-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Arabic Heavy" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Arabic Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Arabic Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Arabic Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Arabic Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Arabic Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic SemiCondensed, Bold Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Semi-Bold Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic SemiCondensed, Heavy Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Semi-Bold Extra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic SemiCondensed, Light Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Semi-Bold Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Arabic SemiCondensed, Medium Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic SemiCondensed, Semi-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic SemiCondensed, Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic SemiCondensed, Thin Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic SemiCondensed, Ultra-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Arabic SemiCondensed, Ultra-Light Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Arabic Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Arabic Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Arabic Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Arabic Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Arabic Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Arabic Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Arabic Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Armenian" checksum="(null)">
@@ -3460,7 +3451,25 @@
   <resource identifier="Noto Sans Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Bold Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Brahmi" checksum="(null)">
@@ -3670,58 +3679,7 @@
   <resource identifier="Noto Sans CJK TC Thin" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Condensed, Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Heavy Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Heavy Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Light Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Medium Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Semi-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Thin Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Thin Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Ultra-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Ultra-Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed, Ultra-Light Italic Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Coptic" checksum="(null)">
@@ -4078,58 +4036,7 @@
   <resource identifier="Noto Sans Ethiopic Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans ExtraCondensed, Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Bold Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Heavy Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Heavy Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Light Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Medium Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Medium Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Semi-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Semi-Bold Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Thin Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Thin Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Ultra-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Ultra-Bold Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Ultra-Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans ExtraCondensed, Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Extra-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Georgian" checksum="(null)">
@@ -4714,7 +4621,25 @@
   <resource identifier="Noto Sans Heavy" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Heavy Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Hebrew" checksum="(null)">
@@ -4838,6 +4763,15 @@
   </resource>
 
   <resource identifier="Noto Sans Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Italic Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Javanese" checksum="(null)">
@@ -5422,7 +5356,25 @@
   <resource identifier="Noto Sans Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Limbu" checksum="(null)">
@@ -5704,7 +5656,25 @@
   <resource identifier="Noto Sans Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Medium Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Meetei Mayek" checksum="(null)">
@@ -5755,6 +5725,15 @@
   <resource identifier="Noto Sans Mono Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Mono Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Mono CJK HK" checksum="(null)">
   </resource>
 
@@ -5785,106 +5764,97 @@
   <resource identifier="Noto Sans Mono CJK TC Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Mono Condensed, Bold Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Mono Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Mono Condensed, Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Heavy Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Thin Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono Condensed, Ultra-Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Heavy Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Medium Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Semi-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Thin Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Ultra-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono ExtraCondensed, Ultra-Light Extra-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Mono Extra-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Mono Heavy" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Mono Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Heavy Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Mono Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Mono Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Medium Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Mono Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Mono SemiCondensed, Bold Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Mono Semi-Bold Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Mono SemiCondensed, Heavy Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Mono Semi-Bold Extra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Mono SemiCondensed, Light Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Mono Semi-Bold Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans Mono SemiCondensed, Medium Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono SemiCondensed, Semi-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono SemiCondensed, Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono SemiCondensed, Thin Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono SemiCondensed, Ultra-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Mono SemiCondensed, Ultra-Light Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Mono Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Mono Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Mono Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Thin Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Mono Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Mono Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Ultra-Bold Semi-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Mono Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Mro" checksum="(null)">
@@ -6154,61 +6124,28 @@
   <resource identifier="Noto Sans Semi-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans SemiCondensed, Bold Italic Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Semi-Bold Italic Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans SemiCondensed, Bold Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Semi-Bold Italic Extra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans SemiCondensed, Heavy Italic Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Semi-Bold Italic Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans SemiCondensed, Heavy Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Semi-Bold Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Sans SemiCondensed, Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Light Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Light Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Medium Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Medium Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Semi-Bold Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Semi-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Thin Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Thin Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Ultra-Bold Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Ultra-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Ultra-Light Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans SemiCondensed, Ultra-Light Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Sans Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Sharada" checksum="(null)">
@@ -7252,7 +7189,25 @@
   <resource identifier="Noto Sans Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Thin Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Tifinagh" checksum="(null)">
@@ -7300,13 +7255,49 @@
   <resource identifier="Noto Sans Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Bold Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Ultra-Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Vai" checksum="(null)">
@@ -7564,7 +7555,25 @@
   <resource identifier="Noto Serif Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Bold Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif CJK HK" checksum="(null)">
@@ -7672,58 +7681,7 @@
   <resource identifier="Noto Serif CJK TC Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif Condensed, Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Heavy Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Heavy Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Light Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Medium Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Medium Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Semi-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Semi-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Thin Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Thin Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Ultra-Bold Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Ultra-Bold Italic Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Ultra-Light Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif Condensed, Ultra-Light Italic Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Devanagari" checksum="(null)">
@@ -8164,58 +8122,7 @@
   <resource identifier="Noto Serif Ethiopic Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif ExtraCondensed, Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Bold Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Heavy Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Heavy Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Light Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Medium Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Medium Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Semi-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Semi-Bold Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Thin Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Thin Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Ultra-Bold Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Ultra-Bold Italic Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Ultra-Light Extra-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif ExtraCondensed, Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Extra-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Georgian" checksum="(null)">
@@ -8386,7 +8293,25 @@
   <resource identifier="Noto Serif Heavy" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Heavy Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Heavy Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Heavy Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Heavy Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Heavy Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Heavy Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Heavy Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Hebrew" checksum="(null)">
@@ -8498,6 +8423,15 @@
   </resource>
 
   <resource identifier="Noto Serif Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Italic Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Kannada" checksum="(null)">
@@ -8755,7 +8689,25 @@
   <resource identifier="Noto Serif Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Light Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Makasar" checksum="(null)">
@@ -8791,7 +8743,25 @@
   <resource identifier="Noto Serif Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Medium Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Medium Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Medium Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Medium Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Medium Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Medium Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Myanmar" checksum="(null)">
@@ -8935,61 +8905,28 @@
   <resource identifier="Noto Serif Semi-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Semi-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Semi-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif SemiCondensed, Bold Italic Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Semi-Bold Italic Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif SemiCondensed, Bold Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Semi-Bold Italic Extra-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif SemiCondensed, Heavy Italic Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Semi-Bold Italic Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif SemiCondensed, Heavy Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Semi-Bold Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Serif SemiCondensed, Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Light Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Light Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Medium Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Medium Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Semi-Bold Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Semi-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Thin Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Thin Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Ultra-Bold Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Ultra-Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Ultra-Light Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Serif SemiCondensed, Ultra-Light Semi-Condensed" checksum="(null)">
+  <resource identifier="Noto Serif Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Sinhala" checksum="(null)">
@@ -9463,7 +9400,25 @@
   <resource identifier="Noto Serif Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Thin Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Thin Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Thin Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Thin Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Thin Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Thin Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Tibetan" checksum="(null)">
@@ -9508,13 +9463,49 @@
   <resource identifier="Noto Serif Ultra-Bold" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Ultra-Bold Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Bold Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Ultra-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Bold Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Bold Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Bold Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Bold Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Ultra-Light" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Serif Ultra-Light Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Light Extra-Condensed" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Serif Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Light Italic Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Light Italic Extra-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Light Italic Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Serif Ultra-Light Semi-Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Serif Vithkuqi" checksum="(null)">
@@ -9646,130 +9637,130 @@
   <resource identifier="Sans-serif Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font" checksum="(null)">
+  <resource identifier="SauceCodePro NF" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Bold" checksum="(null)">
+  <resource identifier="SauceCodePro NF Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Bold Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Heavy" checksum="(null)">
+  <resource identifier="SauceCodePro NF Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Heavy Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Light" checksum="(null)">
+  <resource identifier="SauceCodePro NF Light" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Light Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Medium" checksum="(null)">
+  <resource identifier="SauceCodePro NFM" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Medium Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Bold" checksum="(null)">
+  <resource identifier="SauceCodePro NF Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Bold Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Heavy" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Heavy Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Light" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Light" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Light Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Medium" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Medium Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Semi-Bold" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Ultra-Light" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFM Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo" checksum="(null)">
+  <resource identifier="SauceCodePro NFP" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Bold" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Bold Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Heavy" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Heavy Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Heavy Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Light" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Light" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Light Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Medium" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Medium Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Medium Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Semi-Bold" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Semi-Bold Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Ultra-Light" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Propo Ultra-Light Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NFP Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Semi-Bold" checksum="(null)">
+  <resource identifier="SauceCodePro NF Semi-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Semi-Bold Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Semi-Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Ultra-Light" checksum="(null)">
+  <resource identifier="SauceCodePro NF Ultra-Light" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Ultra-Light Italic" checksum="(null)">
+  <resource identifier="SauceCodePro NF Ultra-Light Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Segoe MDL2 Assets" checksum="(null)">
@@ -10369,6 +10360,9 @@
   <resource identifier="Terminal" checksum="(null)">
   </resource>
 
+  <resource identifier="Terminal Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Terminal Greek 737 (437G)" checksum="(null)">
   </resource>
 
@@ -10378,6 +10372,12 @@
   <resource identifier="Terminal Medium Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="Terminus" checksum="(null)">
+  </resource>
+
+  <resource identifier="Terminus Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="TeX Gyre Pagella Math" checksum="(null)">
   </resource>
 
@@ -10514,6 +10514,18 @@
   </resource>
 
   <resource identifier="TeX Gyre Termes Math" checksum="(null)">
+  </resource>
+
+  <resource identifier="Times" checksum="(null)">
+  </resource>
+
+  <resource identifier="Times Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Times Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Times Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Times New Roman," checksum="(null)">
@@ -10616,6 +10628,18 @@
   </resource>
 
   <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Utopia Medium Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Verdana" checksum="(null)">

@@ -10,7 +10,7 @@
         (dynamics "Dynamics Off")
         (gradient "Flare Glow Radial 3")
         (palette "Color History")
-        (brush-size 1)
+        (brush-size 17)
         (brush-spacing 0.20000000000000001)
         (gradient-repeat sawtooth))
     (use-fg-bg yes)
